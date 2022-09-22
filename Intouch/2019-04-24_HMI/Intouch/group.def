@@ -1,0 +1,46 @@
+Number of Levels:	2
+    Level:	  6	 1
+    Level:	  0	 2
+End of Level Information.
+Begin Group Definition.
+    Group Name:	$System;0001
+    Level:		1
+    Number Children:	6
+Children.
+Begin Group Definition.
+    Group Name:	PKIOS;0282
+    Level:		2
+    Number Children:	0
+No children.
+More Siblings.
+Begin Group Definition.
+    Group Name:	Line_SIKN;0284
+    Level:		2
+    Number Children:	0
+No children.
+More Siblings.
+Begin Group Definition.
+    Group Name:	Line_L5;0285
+    Level:		2
+    Number Children:	0
+No children.
+More Siblings.
+Begin Group Definition.
+    Group Name:	Line_L4;0286
+    Level:		2
+    Number Children:	0
+No children.
+More Siblings.
+Begin Group Definition.
+    Group Name:	Line_L2;006A
+    Level:		2
+    Number Children:	0
+No children.
+More Siblings.
+Begin Group Definition.
+    Group Name:	Line_L1;006B
+    Level:		2
+    Number Children:	0
+No children.
+No more siblings.
+No more siblings.
